@@ -1,0 +1,15 @@
+{
+  "name": "atmnode",
+  "version": "1.0.0",
+  "description": "Atm",
+  "main": "account.js",
+  "scripts": {
+    "test": "test",
+    "start": "node account.js"
+  },
+  "author": "Leah Mathurin",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
